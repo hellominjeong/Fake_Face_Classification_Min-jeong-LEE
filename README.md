@@ -22,8 +22,8 @@
 
 #### Training Dataset:  
 
-  This subset contains about 60% of the total dataset.  
-  It includes both the input images and their corresponding labels (real or fake).  
+  - This subset contains about 60% of the total dataset.  
+  - It includes both the input images and their corresponding labels (real or fake).  
   |fake|real|
   |---|---|
 |![image](https://github.com/user-attachments/assets/8ab9e62f-1284-4391-8d5e-e8b490c0d23b)|![image](https://github.com/user-attachments/assets/0e318ab2-e688-46d5-9223-6d9fb054fbb2)|
@@ -31,13 +31,13 @@
 
 #### Validation Dataset:
 
-  The validation set comprises about 25% of the total dataset.  
-  Like the training set, it includes both input images and their labels (real or fake).  
+  - The validation set comprises about 25% of the total dataset.  
+  - Like the training set, it includes both input images and their labels (real or fake).  
 
 #### Test Dataset:
 
-  The test dataset includes about 15% of the total dataset.  
-  This set contains only the input images, without any labels (ground truth).  
-  Participants will use this dataset to generate predictions, and these predicted outputs will be submitted for evaluation.    
+  - The test dataset includes about 15% of the total dataset.  
+  - This set contains only the input images, without any labels (ground truth).  
+  - Participants will use this dataset to generate predictions, and these predicted outputs will be submitted for evaluation.    
 
   ---
