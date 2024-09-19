@@ -1,7 +1,7 @@
 # Fake Face Classification Project-proposal_Min-jeong-LEE
 
 ## I. Project title  
-  - Real and Fake Face image classification using deep learning  
+: Real and Fake Face image classification using deep learning  
 
 ## II. Project introduction  
 ### Project objective  
