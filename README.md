@@ -24,9 +24,9 @@
 
   - This subset contains about 60% of the total dataset.  
   - It includes both the input images and their corresponding labels (real or fake).  
-  |fake|real|
-  |---|---|
-|![image](https://github.com/user-attachments/assets/8ab9e62f-1284-4391-8d5e-e8b490c0d23b)|![image](https://github.com/user-attachments/assets/0e318ab2-e688-46d5-9223-6d9fb054fbb2)|
+  - |fake|real|
+  - |---|---|
+- |![image](https://github.com/user-attachments/assets/8ab9e62f-1284-4391-8d5e-e8b490c0d23b)|![image](https://github.com/user-attachments/assets/0e318ab2-e688-46d5-9223-6d9fb054fbb2)|
 
 
 #### Validation Dataset:
