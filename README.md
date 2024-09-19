@@ -16,6 +16,7 @@
 
 ## III. Dataset description 
 *Data Source: https://www.kaggle.com/datasets/undersc0re/fake-vs-real-face-classification/data*  
+*The dataset is located in the archive folder*
 -   The dataset consists of two categories: real face images and fake face images **(generate using GAN technology)**, and it is structured to enable classification tasks. The dataset includes a total of X images, where Y are real face images and Z are fake face images.
 ### Data Splitting Strategy  
   To facilitate effective model training and evaluation, the dataset has been divided into three subsets: training, validation, and test datasets.  
