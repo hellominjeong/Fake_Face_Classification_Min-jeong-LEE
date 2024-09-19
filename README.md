@@ -1,4 +1,4 @@
-# Application-and-practice-in-neural-networks_Project-proposal_Min-jeong-LEE
+# Fake Face Classification Project-proposal_Min-jeong-LEE
 
 ## I. Project title  
   - Real and Fake Face image classification using deep learning  
