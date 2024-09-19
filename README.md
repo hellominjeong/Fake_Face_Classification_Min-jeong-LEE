@@ -15,7 +15,7 @@
   - It is necessary to advance technologies that can accurately distinguish between real face images and fake face images.  
 : you have to include objective and motivation of your project (need details)
 
-III. Dataset description (need details)
+## III. Dataset description (need details)
 -   The dataset consists of two categories: real face images and fake face images, and it is structured to enable classification tasks. The dataset includes a total of X images, where Y are real face images and Z are fake face images.
 ### Data Splitting Strategy  
   To facilitate effective model training and evaluation, the dataset has been divided into three subsets: training, validation, and test datasets.  
