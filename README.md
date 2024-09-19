@@ -1,1 +1,38 @@
 # Application-and-practice-in-neural-networks_Project-proposal_Min-jeong-LEE
+
+## I. Project title  
+  - Real and Fake Face image classification using deep learning  
+
+## II. Project introduction  
+### Project objective  
+  - To improve the performance of deep learning models to classify fake and real images so that fake images are not used for malicious purposes.
+### Project motivation  
+#### Ensuring Information Integrity
+  - Deep learning technology has been mostly used in legitimate applications such as for entertainment and education, etc., malicious users have also exploited them for unlawful or nefarious purposes.  
+  - For example, high-quality and realistic fake images, videos have been created to spread misinformation and propaganda, foment political discord and hate, or even harass and blackmail people.  
+  - Fake face images, often generated through technologies like deepfakes, can be used to spread misinformation and false narratives.
+  - If these fake images are mistaken for real ones in news outlets or on social media, it can lead to public confusion and undermine trust.
+  - It is necessary to advance technologies that can accurately distinguish between real face images and fake face images.  
+: you have to include objective and motivation of your project (need details)
+
+III. Dataset description (need details)
+-   The dataset consists of two categories: real face images and fake face images, and it is structured to enable classification tasks. The dataset includes a total of X images, where Y are real face images and Z are fake face images.
+### Data Splitting Strategy  
+  To facilitate effective model training and evaluation, the dataset has been divided into three subsets: training, validation, and test datasets.  
+
+#### Training Dataset:  
+
+  This subset contains ~~~% of the total dataset.  
+  It includes both the input images and their corresponding labels (real or fake).  
+
+#### Validation Dataset:
+
+  The validation set comprises ~~~% of the total dataset.  
+  Like the training set, it includes both input images and their labels (real or fake).  
+
+#### Test Dataset:
+
+  The test dataset includes ~~~% of the total dataset.
+  This set contains only the input images, without any labels (ground truth).
+  Participants will use this dataset to generate predictions, and these predicted outputs will be submitted for evaluation.
+  The model's performance will be evaluated based on the accuracy and other metrics using the ground truth labels, which will remain hidden until the evaluation phase.
