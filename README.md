@@ -1,0 +1,1 @@
+# Application-and-practice-in-neural-networks_Project-proposal_Min-jeong-LEE
