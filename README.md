@@ -36,7 +36,8 @@
 
 #### Test Dataset:
 
-  The test dataset includes about 15% of the total dataset.
+  The test dataset includes about 15% of the total dataset.  
   This set contains only the input images, without any labels (ground truth).  
-  Participants will use this dataset to generate predictions, and these predicted outputs will be submitted for evaluation.  
-  The model's performance will be evaluated based on the accuracy and other metrics using the ground truth labels, which will remain hidden until the evaluation phase.  
+  Participants will use this dataset to generate predictions, and these predicted outputs will be submitted for evaluation.    
+
+  ---
