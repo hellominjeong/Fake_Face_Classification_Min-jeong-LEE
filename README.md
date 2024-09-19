@@ -13,7 +13,6 @@
   - Fake face images, often generated through technologies like deepfakes, can be used to spread misinformation and false narratives.
   - If these fake images are mistaken for real ones in news outlets or on social media, it can lead to public confusion and undermine trust.
   - It is necessary to advance technologies that can accurately distinguish between real face images and fake face images.  
-: you have to include objective and motivation of your project (need details)
 
 ## III. Dataset description 
 *Data Source: https://www.kaggle.com/datasets/undersc0re/fake-vs-real-face-classification/data*  
